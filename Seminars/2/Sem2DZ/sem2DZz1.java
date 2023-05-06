@@ -25,7 +25,6 @@ public class sem2DZz1 {
                         System.out.println(str);
                         writer.write(str);
                         writer.write('\n');
-                        writer.flush();
                     }
                 }
             }
